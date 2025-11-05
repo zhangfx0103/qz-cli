@@ -16,4 +16,4 @@ qz init <you project name>
 
 ## 提供模板
 
-模块持续增加.
+模块持续增加...
